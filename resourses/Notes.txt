@@ -1,0 +1,62 @@
+# Estilo
+  - Videojuego en 2 y media dimensiones.
+  - Basado en la jugabilidad de Metal Slug y el uso de plataformas.
+  - Temática inspirada en las diferentes carreras de UPIIZ
+  - Se planean cinco niveles, cada uno inspirado en una carrera diferentes
+    con un jefe final diferente.
+
+# Personaje
+  - Vida representada en Nopales.
+  - Burro haciendo ilusión a la mascota del politécnico.
+
+  - El diseño de los niveles, de los personajes, de la música y todo lo referente al
+  desarrollo se realiza dentro de la institución y el 100% hecho por los integrantes
+  del Club.
+
+# Enemigos
+  - Hay 3 tipos de enemigos:
+    - Enemigos genéricos (repetitivos)
+    - Jefes finales
+    - Enemigo especial por nivel.
+
+  - Enemigos genéricos, por ahora ninguno
+
+  - Las ideas de enemigos finales son:
+    - Mecatrónica:
+      - Un robot llamado mecanismo del abismo.
+    - Sistemas
+      - Computadora con Windows 98 que tiene 2 sonidos característicos, al iniciar
+        tiene el sonido de inicio de windows y al morir el sonido de apagado.
+    - Ambiental
+      - "Compostadora Aniquiladora" o "Matraz el Audaz"
+    - Alimentos
+      - Un maíz
+    - Metalúrgico
+      - "Crisolito el Malito"
+  - Enemigos especiales
+    - Sistemas
+      - Enemigo con cara de punto y coma ";"
+    - Mecatrónica
+      - Un engrane o un seguidor de linea
+    - Ambiental
+      - Barril de deshechos tóxicos, o enemigo arrojando barriles
+    - Alimentos
+      - La neta no tenemos ni anvorguesa
+    - Metalurgia
+      - "Taladro Malandro", "El Brayan"
+    - En el Tutorial
+      - Lapiz y libreta
+
+# Niveles
+  - Mecatrónica
+    - Las plataformas sean engranes
+    - El robot probablemente tenga 2 fases
+    - El fondo deben ser montañas de basura electrónica
+    - Tentativamente habrá efectos visuales detrás y enfrente del personaje
+  - Sistemas
+    - Inspirado en "Tron"
+# Armas
+  - "El purificador"
+  - La Bazooka de Tunas "El Tunificador"
+  - Varias armas (Ak-47, 3mm) lanza tunas
+
